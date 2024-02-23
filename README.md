@@ -1,4 +1,4 @@
-Soy egresado de la carrera de FrontEnd y estudiante de BackEnd, con muchas ganas de aprender de este inmenso mundo que es el de la tecnología 🌏.
+Hola, soy David Cordoba. Programador web Fullstack
 
 ¿Qué me destaca? 🏅
 
@@ -6,7 +6,7 @@ Soy una persona con una amplia capacidad de aprendizaje, aplicable en mi día a 
 
 TECH SKILLSS 💥
 
-✔️ JAVASCRIPT ✔️ HTML5 ✔️ CSS ✔️ NODE.JS ✔️ REACT ✔️ REDUX
+✔️ JAVASCRIPT ✔️ NODE.JS ✔️ REACT ✔️ REDUX
 ✔️ EXPRESS  ✔️ POSTGRESQL ✔️ SEQUELIZE 
 
 ¿Mis proyectos? 👩‍💻
@@ -32,9 +32,6 @@ Chimu sublimaciones - Al igual que SalemVintage, otro emocionante proyecto de ec
 Front-End: React | React Hooks | HTML | Tailwind | React-Router-Dom 
 Back-End: Firebase | Node.JS (Tambien en Front) . Algunas de las particularidades de la aplicación son:
 
-*Descripción del Proyecto:
-Este proyecto es el resultado del trabajo freelance que ofrece CoderHouse para poner en practica nuestros conocimientos. Realizamos un sitio web para la microempresa Chimu, especializada en la venta de artículos personalizados a través de su ecommerce.
-
-*Gestión de Datos con Firebase: Implementamos Firebase, una plataforma de desarrollo de aplicaciones móviles y web, para garantizar una gestión eficiente y segura de la información. Firebase proporciona herramientas para el almacenamiento, la base de datos, la autenticación y el análisis de datos, lo que contribuye a una experiencia de usuario personalizada y fluida.
+* Gestión de Datos con Firebase: Implementamos Firebase, una plataforma de desarrollo de aplicaciones móviles y web, para garantizar una gestión eficiente y segura de la información. Firebase proporciona herramientas para el almacenamiento, la base de datos, la autenticación y el análisis de datos, lo que contribuye a una experiencia de usuario personalizada y fluida.
 * Integración con WhatsApp: Una de las funcionalidades destacadas de nuestro proyecto fue la integración con WhatsApp. Al realizar un pedido en el sitio web, automáticamente se envía un mensaje de WhatsApp a Chimu con una lista detallada de los productos seleccionados por el usuario. Esta integración se implementó utilizando tecnologías de mensajería de WhatsApp, lo que facilita una comunicación más fluida y personalizada entre el usuario y Chimu.
 

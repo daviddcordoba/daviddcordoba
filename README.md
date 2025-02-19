@@ -1,37 +1,74 @@
-Hola, soy David Cordoba. Programador web Fullstack
+Hola, soy David! 👋
 
-¿Qué me destaca? 🏅
+Soy un desarrollador web de 23 años de Chubut, Argentina. Me formé en CoderHouse y SoyHenry, y actualmente estoy realizando la tecnicatura en Analista Programador en la UNPSJB.
 
-Soy una persona con una amplia capacidad de aprendizaje, aplicable en mi día a día y capaz de adaptarme a los distintos desafíos que se presenten en el camino. Siempre dispuesto a ayudar y aprender de quienes me rodean.
+💻 Actualmente, estoy aprendiendo sobre:
 
-TECH SKILLSS 💥
+- NestJs
+- MySQL
+- Patrones de diseño
+- TypeORM
+- TypeScript
+- Java
+- C
 
-✔️ JAVASCRIPT ✔️ NODE.JS ✔️ REACT ✔️ REDUX
-✔️ EXPRESS  ✔️ POSTGRESQL ✔️ SEQUELIZE 
+🔧 Tengo experiencia trabajando con:
 
-¿Mis proyectos? 👩‍💻
+- React.js
+- Node.js
+- Express
+- JavaScript
+- PostgreSQL
+- Scrum
+- Docker
+- Tailwind CSS
+  
+💼 Experiencia laboral
 
-SalemVintage APP- Desarrollo de un carrito de compras totalmente funcional utilizando las siguientes tecnologias: 
-Front-End: React | React-Router-Dom | Bootstrap | Toastify | Material Icons | Reactstrap | Sass | React Hooks
-Back-End: Firebase | NodeJs (Tambien en Front). Algunas de las particularidades de la aplicacion son:
+🚀 Desarrollador Frontend - Franzmakeup (Octubre 2024 - Actualidad)
 
-* Agregar y Eliminar Productos: Los usuarios pueden agregar productos a su carrito simplemente seleccionando la cantidad deseada y haciendo clic en el botón "Agregar al Carrito". Del mismo modo, pueden eliminar productos del carrito si cambian de opinión o desean realizar ajustes en su compra.
+- Desarrollo de una aplicación web de catálogo de compras con React.js.
+- Gestión eficiente del estado del carrito con zustand.
+- Implementación de funcionalidades para añadir, eliminar productos y vaciar el carrito.
 
-* Resumen del Carrito: Los usuarios pueden ver un resumen claro y detallado de los productos que han agregado a su carrito, incluyendo el nombre del producto, la cantidad y el precio unitario.
+🔗 Desarrollador Back-end - Andromeda (Octubre 2023)
 
-* Cálculo del Total: El carrito de compras calcula automáticamente el precio total de todos los productos agregados, lo que permite a los usuarios conocer el costo total de su compra antes de finalizarla.
+- Desarrollo de la lógica del contrato inteligente para una aplicación Web3.
+- Conversión de energía eléctrica en moneda virtual para transacciones.
+- Revisión de código y despliegue a producción con tests.
 
-* Formulario de Comprador: Para completar el proceso de compra, los usuarios deberán proporcionar sus datos personales a través de un formulario controlado. Esto incluye información de contacto y dirección de envío para que podamos procesar su pedido de manera efectiva.
+🎨 Desarrollador Frontend - Chimu sublimaciones (Enero 2023)
 
-* Facilidad de Navegación: La aplicación cuenta con una barra de navegación principal (Navbar) que facilita a los usuarios acceder rápidamente al carrito de compras desde cualquier página.
+- Desarrollo de la plataforma web.
+- Integración de pedidos a través de WhatsApp.
+- Colaboración con diseñadores y programadores para mejorar la experiencia web.
 
-* Contexto de Carrito: Implemente un contexto de React llamado CartContext para asegurar que la información del carrito esté disponible en todos los niveles de la aplicación sin tener que pasar manualmente las propiedades (props).
+📌 Proyectos Destacados
 
-Chimu sublimaciones - Al igual que SalemVintage, otro emocionante proyecto de ecommerce, nuestra aplicación para Chimu ofrece una experiencia de compra optimizada con funcionalidades clave que incluyen la facilidad para agregar y eliminar productos, un resumen detallado del carrito, el cálculo automático del total de la compra, un formulario de comprador controlado para completar el proceso de compra, y una barra de navegación principal (Navbar) que permite a los usuarios acceder rápidamente al carrito de compras desde cualquier página. Algunas de las particularidades de chimu son:
+🎥 Portfolio Community Manager - Creadora de contenido
 
-Front-End: React | React Hooks | HTML | Tailwind | React-Router-Dom 
-Back-End: Firebase | Node.JS (Tambien en Front) . Algunas de las particularidades de la aplicación son:
+- Tecnologías: React.js, Tailwind CSS, JavaScript
 
-* Gestión de Datos con Firebase: Implementamos Firebase, una plataforma de desarrollo de aplicaciones móviles y web, para garantizar una gestión eficiente y segura de la información. Firebase proporciona herramientas para el almacenamiento, la base de datos, la autenticación y el análisis de datos, lo que contribuye a una experiencia de usuario personalizada y fluida.
-* Integración con WhatsApp: Una de las funcionalidades destacadas de nuestro proyecto fue la integración con WhatsApp. Al realizar un pedido en el sitio web, automáticamente se envía un mensaje de WhatsApp a Chimu con una lista detallada de los productos seleccionados por el usuario. Esta integración se implementó utilizando tecnologías de mensajería de WhatsApp, lo que facilita una comunicación más fluida y personalizada entre el usuario y Chimu.
+- Creación de componentes y utilidades para la web.
 
+- Integración de redes sociales y contenido audiovisual adaptable a dispositivos móviles.
+
+💰 PigCommander - Aplicación de finanzas personales
+
+- Tecnologías: Next.js, Tailwind CSS, Sequelize, PostgreSQL, Express.js
+
+- Registro de gastos e ingresos financieros.
+
+- Implementación de API REST, Redux Toolkit y pagos con MercadoPago API.
+
+- Autenticación con Passport y JWT.
+
+📫 ¿Quieres contactarme?
+
+💼 LinkedIn: https://www.linkedin.com/in/daviddcordoba/
+
+✉️ davidcordoba.dev@gmail.com
+
+🚀 Mi portafolio: https://davidcordoba.netlify.app/
+
+¡Gracias por visitar mi perfil! 😊

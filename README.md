@@ -1,6 +1,4 @@
-Hola, soy David! 👋
-
-Soy un desarrollador web de 23 años de Chubut, Argentina. Me formé en CoderHouse y SoyHenry, y actualmente estoy realizando la tecnicatura en Analista Programador en la UNPSJB.
+Hola, soy David! 👋 Tengo 24 años y soy de Chubut, Argentina. Me formé en el desarrollo web en CoderHouse y SoyHenry, y actualmente estoy realizando la tecnicatura en Analista Programador en la UNPSJB.
 
 🔧 Tengo experiencia trabajando con:
 

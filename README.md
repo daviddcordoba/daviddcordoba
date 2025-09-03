@@ -13,11 +13,13 @@ Hola, soy David! 👋 Tengo 24 años y soy de Chubut, Argentina. Me formé en el
   
 💼 Experiencia laboral
 
-🚀 Desarrollador Frontend - Franzmakeup (Octubre 2024 - Actualidad)
+🚀 Desarrollador Frontend -Gabriela Zarate (Porfolio) - Actual
   
-  - Desarrollo de una aplicación web de catálogo de compras con React.js.
-  - Gestión eficiente del estado del carrito con zustand.
-  - Implementación de funcionalidades para añadir, eliminar productos y vaciar el carrito.
+  - Responsable de la creacion de componentes y utilidades para la creación y desarrollo de la página web. 
+  - Integración de redes sociales y contenido audiovisual con formato de celular para dar una idea de cómo se verían en
+    dispositivos móviles.
+  - Integracion con firebase para la base de datos.
+  - Integracion de cloudinary como medio de almacenamiento para los archivos multimedia.
 
 🔗 Desarrollador Back-end - Andromeda (Octubre 2023)
   
@@ -25,21 +27,7 @@ Hola, soy David! 👋 Tengo 24 años y soy de Chubut, Argentina. Me formé en el
   - Conversión de energía eléctrica en moneda virtual para transacciones.
   - Revisión de código y despliegue a producción con tests.
 
-🎨 Desarrollador Frontend - Chimu sublimaciones (Enero 2023)
-  
-  - Desarrollo de la plataforma web.
-  - Integración de pedidos a través de WhatsApp.
-  - Colaboración con diseñadores y programadores para mejorar la experiencia web.
-
 📌 Proyectos Destacados
-
-🎥 Portfolio Community Manager - Creadora de contenido
-  
-  - Tecnologías: React.js, Tailwind CSS, JavaScript
-  
-  - Creación de componentes y utilidades para la web.
-  
-  - Integración de redes sociales y contenido audiovisual adaptable a dispositivos móviles.
 
 💰 PigCommander - Aplicación de finanzas personales
 
